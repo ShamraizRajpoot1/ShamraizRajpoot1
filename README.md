@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShamraizRajpoot1
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently Mobile app developer
 - 💞️ I’m looking to collaborate on solving error and create projects on 
-- 📫 How to reach me 20101002-011@uskt.edu.pk is my roll no
+- 📫 How to reach me sshamraiz4@gmail.com is my email
 
 <!---
 ShamraizRajpoot1/ShamraizRajpoot1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
